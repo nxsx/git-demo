@@ -29,4 +29,4 @@ URL: https://www.youtube.com/watch?v=RR_Ih6d71YA
 * git merge origin/master : merge all origin/master to local repository
 * git pull : pull and merge remote repository to local repository
 * git push origin <branch_name> push local branch to remote branch
-* 
+  
